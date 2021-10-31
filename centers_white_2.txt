@@ -1,0 +1,5 @@
+Coordinates of the centers of the squares:
+x: 74, y: 120;
+x: 351, y: 141;
+x: 109, y: 331;
+x: 239, y: 264;
